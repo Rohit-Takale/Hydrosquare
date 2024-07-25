@@ -48,7 +48,7 @@
     <div class="container d-md-flex py-4">
         <div class="me-md-auto text-center text-md-left">
             <div class="copyright">
-                © 2022, <strong><span>All Rights Reserved</span></strong>. Powered By <a href="#" target="_blank">PDR IT Solutions</a>
+                © 2024, <strong><span>All Rights Reserved</span></strong>. Powered By <a href="#" target="_blank">PDR IT Solutions</a>
             </div>
             <div class="credits">
             </div>

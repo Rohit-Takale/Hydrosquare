@@ -1,4 +1,4 @@
-<section>
+<section id="prod_cat">
 
     <div class="container aos-init aos-animate" data-aos="fade-up">
         <div class="row">
