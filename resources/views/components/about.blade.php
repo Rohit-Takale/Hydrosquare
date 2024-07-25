@@ -1,13 +1,12 @@
 <section id="about_us">
     <div class="container aos-init aos-animate" data-aos="fade-up" style="padding-top:50px;">
         <div class="row rounded shadow-sm aos-init aos-animate" style="justify-content:center;" data-aos="zoom-in">
-            <div class="col-lg-3 col-md-3   rounded p-3">
+            <div class="col-lg-12 col-md-12   rounded p-3">
                 <div class="section-title">
                     <h2>About Us</h2>
                 </div>
             </div>
-            <div class="col-lg-9 col-md-9   rounded p-2">
-
+            <div class="col-lg-12 col-md-12   rounded py-2 px-5" style="margin-top:-40px">
                 <p style=""> Hydrosquare is established in the year
                     2020, situated at Udyambag, Belagavi.
                     As we are engaged in production,

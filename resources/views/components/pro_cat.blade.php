@@ -34,7 +34,7 @@
 
                     </div>
                     <div class="section-title mt-4">
-                        <h4>Hydraulic Pumps</h4>
+                        <h4>Pumping Units</h4>
                     </div>
                 </div>
 
@@ -48,7 +48,7 @@
 
                     </div>
                     <div class="section-title mt-4">
-                        <h4>Custom Products</h4>
+                        <h4>Customized Products</h4>
                     </div>
                 </div>
             </div>
