@@ -69,7 +69,7 @@
                     <li><a href="#about">About</a></li>
                     <!--<li><a href="#services">Services</a></li>-->
                     <li><a href="#portfolio">Products</a></li>
-                    <li><a href="#team">Certification</a></li>
+                    <!-- <li><a href="#team">Certification</a></li> -->
                     <!--------li><a href="blog.html">Blog</a></li--------->
                     <!-------------li class="drop-down"><a href="">Drop Down</a>
             <ul>
