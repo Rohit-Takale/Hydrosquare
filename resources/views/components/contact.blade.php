@@ -12,7 +12,7 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                <iframe src="https://www.google.com/maps/search/Plot+No.+187,+Halgekar+Compound,++Industrial+Estate,+Udyambag,++Belagavi,+Karnataka+590008/@15.8176812,74.4780072,15z/data=!3m1!4b1?entry=ttu" width="400" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed/v1/search?q=Plot+No.+187,+Halgekar+Compound,++Industrial+Estate,+Udyambag,++Belagavi,+Karnataka+590008&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="400" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                </div>
               </div>
              <div class="col-md-6">
