@@ -2,10 +2,7 @@
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
-        <!--------<div class="section-title">
-          <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
-        </div>------->
+       
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
 
@@ -15,7 +12,7 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.8903764617394!2d74.4890316!3d15.809733300000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbf65c2f14d108d%3A0xc85ad832a53ca083!2sMultitech!5e0!3m2!1sen!2sin!4v1609229462010!5m2!1sen!2sin" width="400" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/search/Plot+No.+187,+Halgekar+Compound,++Industrial+Estate,+Udyambag,++Belagavi,+Karnataka+590008/@15.8176812,74.4780072,15z/data=!3m1!4b1?entry=ttu" width="400" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                </div>
               </div>
              <div class="col-md-6">
