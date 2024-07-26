@@ -58,14 +58,15 @@
   <!----======= Header ======= ---->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
-      <img src="{{asset('img/HS Logo copy.png')}}" alt="" class="logo me-auto" style="width: 300px;">
+     
+      <img src="{{asset('img/HS Logo copy.png')}}" alt="" class="logo me-auto" style="width: 300px; cursor:pointer " id="main_logo">
 
       <!---- Uncomment below if you prefer to use an image logo -->
       <!---- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>---->
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="#">Home</a></li>
+          <li class="active"><a href="https://hydrosquare.in/">Home</a></li>
           <li><a href="#about_us">About</a></li>
           <!--<li><a href="#services">Services</a></li>-->
           <li><a href="#prod_cat">Products</a></li>
@@ -95,4 +96,13 @@
       <!-- <a href="#about" class="get-started-btn scrollto">Download Brochure</a> -->
     </div>
   </header><!---- End Header ---->
+
+  <script>
+    $(document).ready(function () {
+     $("#main_logo").click(function (e) { 
+      e.preventDefault();
+      window.location="{{route('/')}}"
+     });
+    });
+  </script>
 </body>
