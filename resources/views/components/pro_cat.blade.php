@@ -19,9 +19,9 @@
 
                     </div>
                     <div class="section-title mt-4">
-                        <h4>Hydraulic Jacks</h4>
-                    </div>
+                        <button class="get-started-btn ">Hydraulic Jacks</button>
 
+                    </div>
                 </div>
             </div>
 
@@ -34,7 +34,7 @@
 
                     </div>
                     <div class="section-title mt-4">
-                        <h4>Pumping Units</h4>
+                        <button class="get-started-btn "> Pumping Units</button>
                     </div>
                 </div>
 
@@ -45,10 +45,9 @@
 
                     <div>
                         <img src="{{asset('img/category/Hydrosquare Customised Products copy.png')}}" alt="" class="img-fluid">
-
                     </div>
                     <div class="section-title mt-4">
-                        <h4>Customized Products</h4>
+                    <button class="get-started-btn ">Customized Products</button>
                     </div>
                 </div>
             </div>
