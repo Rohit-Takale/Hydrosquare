@@ -1,5 +1,5 @@
 <section id="about_us">
-    <div class="container aos-init aos-animate" data-aos="fade-up" style="padding-top:50px;">
+    <div class="container aos-init aos-animate" data-aos="fade-up" style="">
         <div class="row rounded shadow-sm aos-init aos-animate" style="justify-content:center;" data-aos="zoom-in">
             <div class="col-lg-12 col-md-12   rounded p-3">
                 <div class="section-title">
