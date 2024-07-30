@@ -112,59 +112,6 @@
 <script src="{{asset('js/main.j')}}s"></script>
 <script src="{{asset('js/custom.js')}}"></script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 </footer>
 
-
-<!-- Vendor JS Files -->
-<script src="{{asset('vendor/jquery/jquery.min.js')}}"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="{{asset('vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-<script src="{{asset('vendor/jquery.easing/jquery.easing.min.js')}}"></script>
-<script src="{{asset('php-email-form/validate.js')}}"></script>
-<script src="{{asset('vendor/owl.carousel/owl.carousel.min.js')}}"></script>
-<script src="{{asset('vendor/waypoints/jquery.waypoints.min.js')}}"></script>
-<script src="{{asset('vendor/counterup/counterup.min.js')}}"></script>
-<script src="{{asset('vendor/isotope-layout/isotope.pkgd.min.js')}}"></script>
-<script src="{{asset('vendor/venobox/venobox.min.js')}}"></script>
-<script src="{{asset('vendor/aos/aos.js')}}"></script>
-
-<!-- Template Main JS File -->
-<script src="{{asset('js/main.js')}}"></script>
-<script src="{{asset('js/custom.js')}}"></script>
-
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->

@@ -12,42 +12,42 @@
 
 
             <div class="col-lg-4 col-md-4">
-                <div class="aos-init aos-animate" data-aos="fade-up">
+                <div class="aos-init aos-animate products cursor-pointer" data-aos="fade-up">
 
                     <div>
                         <img src="{{asset('img/category/Hydrosquare Hydraulic Jacks copy.png')}}" alt="" class="img-fluid">
 
                     </div>
                     <div class="section-title mt-4">
-                        <button class="get-started-btn ">Hydraulic Jacks</button>
-
+                        <h4>Hydraulic Jacks
+                        </h4>
                     </div>
                 </div>
             </div>
 
 
             <div class="col-lg-4 col-md-4">
-                <div class="aos-init aos-animate" data-aos="fade-up">
+                <div class="aos-init aos-animate products cursor-pointer" data-aos="fade-up">
 
                     <div>
                         <img src="{{asset('img/category/Hydrosquare Pumping Unit copy.png')}}" alt="" class="img-fluid">
 
                     </div>
                     <div class="section-title mt-4">
-                        <button class="get-started-btn "> Pumping Units</button>
+                        <h4>Pumping Units</h4>
                     </div>
                 </div>
 
             </div>
 
             <div class="col-lg-4 col-md-4">
-                <div class="aos-init aos-animate" data-aos="fade-up">
+                <div class="aos-init aos-animate products cursor-pointer" data-aos="fade-up">
 
                     <div>
                         <img src="{{asset('img/category/Hydrosquare Customised Products copy.png')}}" alt="" class="img-fluid">
                     </div>
                     <div class="section-title mt-4">
-                    <button class="get-started-btn ">Customized Products</button>
+                        <h4>Customized Products</h4>
                     </div>
                 </div>
             </div>
@@ -58,3 +58,13 @@
     </div>
 
 </section>
+
+<script>
+    $(document).ready(function() {
+        $('.products').click(function(e) {
+            e.preventDefault();
+
+            window.location = "{{route('products')}}"
+        });
+    });
+</script>
