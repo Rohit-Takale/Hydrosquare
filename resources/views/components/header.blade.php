@@ -69,7 +69,7 @@
           <li class="active"><a href="https://hydrosquare.in/">Home</a></li>
           <li><a href="#about_us">About</a></li>
           <!--<li><a href="#services">Services</a></li>-->
-          <li><a href="#prod_cat">Products</a></li>
+          <li><a href="{{route('products')}}">Products</a></li>
           <!-- <li><a href="#team">Certification</a></li> -->
           <!--------li><a href="blog.html">Blog</a></li--------->
           <!-------------li class="drop-down"><a href="">Drop Down</a>
