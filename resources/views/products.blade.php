@@ -11,7 +11,7 @@
                 <div class="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
                         <li data-filter=".hydraulics" class="filter-active">Hydraulic Jacks</li>
-                        <li data-filter=".custom" class="">Construction Products</li>
+                        <li data-filter=".Custom" class="">Construction Products</li>
                         <li data-filter=".pumps" class="">Pumping Unit</li>
                     </ul>
                 </div>
@@ -610,7 +610,7 @@
 
             let filterClass = '';
             if (category === 'Construction Products') {
-                filterClass = '.custom'
+                filterClass = '.Custom'
             } else if (category === 'Hydraulic Jacks') {
                 filterClass = '.hydraulics';
             } else if (category === 'Pumping Units') {
@@ -618,13 +618,24 @@
             }
 
 
-            if (filterClass) {
-                $('#portfolio-flters li').removeClass('filter-active');
-                $('#portfolio-flters li[data-filter="' + filterClass + '"]').addClass('filter-active');
-
+            function applyFilter(filterClass){
                 $('.portfolio-item').hide();
                 $(filterClass).show()
             }
+
+            if (filterClass) {
+                $('#portfolio-flters li').removeClass('filter-active');
+                $('#portfolio-flters li[data-filter="' + filterClass + '"]').addClass('filter-active');
+                applyFilter(filterClass)
+            }
+
+            $("#portfolio-flters li").click(function (e) { 
+                e.preventDefault();
+                $(this).addClass('filter-active');
+
+                filterClass = $(this).data('filter');
+                applyFilter(filterClass)
+            });
 
         });
     </script>
