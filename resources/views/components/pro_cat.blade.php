@@ -47,7 +47,7 @@
                         <img src="{{asset('img/category/Hydrosquare Customised Products.png')}}" alt="" class="img-fluid">
                     </div>
                     <div class="section-title mt-4">
-                        <h4>Customized Products</h4>
+                        <h4>Construction Products</h4>
                     </div>
                 </div>
             </div>
@@ -63,8 +63,10 @@
     $(document).ready(function() {
         $('.products').click(function(e) {
             e.preventDefault();
-
-            window.location = "{{route('products')}}"
+            let category = $(this).find('h4').text().trim();
+            console.log(category);
+            
+            window.location = "{{route('products')}}?category=" + encodeURIComponent(category);
         });
     });
 </script>
