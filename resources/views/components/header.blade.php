@@ -67,7 +67,7 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="https://hydrosquare.in/">Home</a></li>
-          <li><a href="https://hydrosquare.in/#about_us">About</a></li>
+          <li ><a href="https://hydrosquare.in/#about_us">About</a></li>
           <!--<li><a href="#services">Services</a></li>-->
           <li><a href="{{route('products')}}">Products</a></li>
           <!-- <li><a href="#team">Certification</a></li> -->

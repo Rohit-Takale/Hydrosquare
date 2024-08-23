@@ -9,7 +9,7 @@
         <div class="row">
 
             <div class="col-lg-4 col-md-6">
-                <div class="box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                <div class="box aos-init aos-animate" style="min-height: 280px" data-aos="fade-up" data-aos-delay="100">
                     <h3>OUR MISSION</h3>
                     <!----<h4><sup>$</sup>0<span> / month</span></h4>--->
                     <p>
@@ -26,7 +26,7 @@
             </div>
 
             <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-                <div class="box featured aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                <div class="box featured aos-init aos-animate" style="min-height: 280px" data-aos="fade-up" data-aos-delay="200">
                     <h3>OUR VISION</h3>
                     <!----<h4><sup>$</sup>19<span> / month</span></h4>---->
                     <p>
@@ -42,7 +42,7 @@
             </div>
 
             <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-                <div class="box aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+                <div class="box aos-init aos-animate" style="min-height: 280px" data-aos="fade-up" data-aos-delay="300">
                     <h3>QUALITY POLICY</h3>
                     <p>
                         HydroSquare will consistently provide products
