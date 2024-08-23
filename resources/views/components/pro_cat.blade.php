@@ -15,7 +15,7 @@
                 <div class="aos-init aos-animate products cursor-pointer" data-aos="fade-up">
 
                     <div>
-                        <img src="{{asset('img/category/Hydrosquare Hydraulic Jacks copy.png')}}" alt="" class="img-fluid">
+                        <img src="{{asset('img/category/Hydrosquare Hydraulic Jacks.png')}}" alt="" class="img-fluid">
 
                     </div>
                     <div class="section-title mt-4">
@@ -30,7 +30,7 @@
                 <div class="aos-init aos-animate products cursor-pointer" data-aos="fade-up">
 
                     <div>
-                        <img src="{{asset('img/category/Hydrosquare Pumping Unit copy.png')}}" alt="" class="img-fluid">
+                        <img src="{{asset('img/category/Hydrosquare Pumping Unit.png')}}" alt="" class="img-fluid">
 
                     </div>
                     <div class="section-title mt-4">
@@ -44,7 +44,7 @@
                 <div class="aos-init aos-animate products cursor-pointer" data-aos="fade-up">
 
                     <div>
-                        <img src="{{asset('img/category/Hydrosquare Customised Products copy.png')}}" alt="" class="img-fluid">
+                        <img src="{{asset('img/category/Hydrosquare Customised Products.png')}}" alt="" class="img-fluid">
                     </div>
                     <div class="section-title mt-4">
                         <h4>Customized Products</h4>
