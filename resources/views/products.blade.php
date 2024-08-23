@@ -11,7 +11,7 @@
                 <div class="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
                         <li data-filter=".hydraulics" class="filter-active">Hydraulic Jacks</li>
-                        <li data-filter=".Custom" class="">Construction Products</li>
+                        <li data-filter=".custom" class="">Construction Products</li>
                         <li data-filter=".pumps" class="">Pumping Unit</li>
                     </ul>
                 </div>
@@ -610,7 +610,7 @@
 
             let filterClass = '';
             if (category === 'Construction Products') {
-                filterClass = '.Custom'
+                filterClass = '.custom'
             } else if (category === 'Hydraulic Jacks') {
                 filterClass = '.hydraulics';
             } else if (category === 'Pumping Units') {
