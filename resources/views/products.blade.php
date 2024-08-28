@@ -233,6 +233,98 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item hydraulics"
+                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
+                    <div class="portfolio-wrap">
+                        <img src="https://hydrosquare.in/img/products/Custom/13 Hydraulic Pullers.jpg"
+                            class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4></h4>
+                            <p></p>
+                            <div class="portfolio-links">
+                                <a href="https://hydrosquare.in/img/products/Custom_detailed/13 Hydraulic Pullers.jpg"
+                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
+                                        class="bx bx-plus"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 portfolio-item hydraulics"
+                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
+                    <div class="portfolio-wrap">
+                        <img src="https://hydrosquare.in/img/products/Custom/14 HTW.jpg" class="img-fluid"
+                            alt="">
+                        <div class="portfolio-info">
+                            <h4></h4>
+                            <p></p>
+                            <div class="portfolio-links">
+                                <a href="https://hydrosquare.in/img/products/Custom_detailed/14 HTW.jpg"
+                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
+                                        class="bx bx-plus"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 portfolio-item hydraulics"
+                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
+                    <div class="portfolio-wrap">
+                        <img src="https://hydrosquare.in/img/products/Custom/15 Hydrauli Tools.jpg" class="img-fluid"
+                            alt="">
+                        <div class="portfolio-info">
+                            <h4></h4>
+                            <p></p>
+                            <div class="portfolio-links">
+                                <a href="https://hydrosquare.in/img/products/Custom_detailed/15 Hydrauli Tools.jpg"
+                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
+                                        class="bx bx-plus"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item hydraulics"
+                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
+                    <div class="portfolio-wrap">
+                        <img src="https://hydrosquare.in/img/products/Custom/16 HWTP.jpg" class="img-fluid"
+                            alt="">
+                        <div class="portfolio-info">
+                            <h4></h4>
+                            <p></p>
+                            <div class="portfolio-links">
+                                <a href="https://hydrosquare.in/img/products/Custom_detailed/16 HWTP.jpg"
+                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
+                                        class="bx bx-plus"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item hydraulics"
+                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
+                    <div class="portfolio-wrap">
+                        <img src="https://hydrosquare.in/img/products/Custom/17 HTPP.jpg" class="img-fluid"
+                            alt="">
+                        <div class="portfolio-info">
+                            <h4></h4>
+                            <p></p>
+                            <div class="portfolio-links">
+                                <a href="https://hydrosquare.in/img/products/Custom_detailed/17 HTPP.jpg"
+                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
+                                        class="bx bx-plus"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
 
@@ -274,7 +366,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item pumps"
+                {{-- <div class="col-lg-4 col-md-6 portfolio-item pumps"
                     style="height: 400px; position: absolute; left: 0px; top: 0px;">
                     <div class="portfolio-wrap">
                         <img src="https://hydrosquare.in/img/products/pump/26 Hydraulic Accessories.jpg"
@@ -290,7 +382,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
 
 
@@ -302,91 +394,9 @@
 
 
             <div class="row portfolio-container " style="position: relative; height: 0px;">
-                <div class="col-lg-4 col-md-6 portfolio-item Custom"
-                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
-                    <div class="portfolio-wrap">
-                        <img src="https://hydrosquare.in/img/products/Custom/13 Hydraulic Pullers.jpg"
-                            class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4></h4>
-                            <p></p>
-                            <div class="portfolio-links">
-                                <a href="https://hydrosquare.in/img/products/Custom_detailed/13 Hydraulic Pullers.jpg"
-                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
-                                        class="bx bx-plus"></i></a>
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item Custom"
-                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
-                    <div class="portfolio-wrap">
-                        <img src="https://hydrosquare.in/img/products/Custom/14 HTW.jpg" class="img-fluid"
-                            alt="">
-                        <div class="portfolio-info">
-                            <h4></h4>
-                            <p></p>
-                            <div class="portfolio-links">
-                                <a href="https://hydrosquare.in/img/products/Custom_detailed/14 HTW.jpg"
-                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
-                                        class="bx bx-plus"></i></a>
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item Custom"
-                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
-                    <div class="portfolio-wrap">
-                        <img src="https://hydrosquare.in/img/products/Custom/15 Hydrauli Tools.jpg" class="img-fluid"
-                            alt="">
-                        <div class="portfolio-info">
-                            <h4></h4>
-                            <p></p>
-                            <div class="portfolio-links">
-                                <a href="https://hydrosquare.in/img/products/Custom_detailed/15 Hydrauli Tools.jpg"
-                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
-                                        class="bx bx-plus"></i></a>
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item Custom"
-                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
-                    <div class="portfolio-wrap">
-                        <img src="https://hydrosquare.in/img/products/Custom/16 HWTP.jpg" class="img-fluid"
-                            alt="">
-                        <div class="portfolio-info">
-                            <h4></h4>
-                            <p></p>
-                            <div class="portfolio-links">
-                                <a href="https://hydrosquare.in/img/products/Custom_detailed/16 HWTP.jpg"
-                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
-                                        class="bx bx-plus"></i></a>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item Custom"
-                    style="height: 400px; position: absolute; left: 0px; top: 0px;">
-                    <div class="portfolio-wrap">
-                        <img src="https://hydrosquare.in/img/products/Custom/17 HTPP.jpg" class="img-fluid"
-                            alt="">
-                        <div class="portfolio-info">
-                            <h4></h4>
-                            <p></p>
-                            <div class="portfolio-links">
-                                <a href="https://hydrosquare.in/img/products/Custom_detailed/17 HTPP.jpg"
-                                    data-gall="portfolioGallery" class="venobox vbox-item" title=""><i
-                                        class="bx bx-plus"></i></a>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-lg-4 col-md-6 portfolio-item Custom"
                     style="height: 400px; position: absolute; left: 0px; top: 0px;">
                     <div class="portfolio-wrap">
@@ -611,13 +621,12 @@
                 filterClass = '.hydraulics';
             } else if (category === 'Pumping Units') {
                 filterClass = '.pumps';
-            }
-            else{
+            } else {
                 filterClass = '.hydraulics'
             }
 
 
-            function applyFilter(filterClass){
+            function applyFilter(filterClass) {
                 $('.portfolio-item').hide();
                 $(filterClass).show()
             }
@@ -628,7 +637,7 @@
                 applyFilter(filterClass)
             }
 
-            $("#portfolio-flters li").click(function (e) { 
+            $("#portfolio-flters li").click(function(e) {
                 e.preventDefault();
                 $(this).addClass('filter-active');
 
