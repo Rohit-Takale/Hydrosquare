@@ -17,10 +17,6 @@
                 </div>
             </div>
 
-
-
-
-
             <!-- <div class="row portfolio-container " style="height: 400px;">
             <div class="col-lg-4 col-md-6 portfolio-item hydraulics" style="height: 400px;">
              
@@ -615,6 +611,9 @@
                 filterClass = '.hydraulics';
             } else if (category === 'Pumping Units') {
                 filterClass = '.pumps';
+            }
+            else{
+                filterClass = '.hydraulics'
             }
 
 
